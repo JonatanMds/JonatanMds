@@ -74,7 +74,7 @@ Gosto de ambientes dinâmicos, produtos reais e times que valorizam qualidade t�
 
 Nas horas vagas, estou sempre criando e experimentando **novos produtos SaaS**, estudando arquitetura, performance e modelos de negócio digitais.
 
-Sou apaixonado por **Esportes(Futebol / Basquete / NFL) e video games**, o que reforça meu interesse por tecnologia, performance, trabalho em equipe e tomada de decisão sob pressão — características que levo para o ambiente profissional.
+Sou apaixonado por **Esportes(Futebol / Basquete / NFL), eSports e video games**, o que reforça meu interesse por tecnologia, performance, trabalho em equipe e tomada de decisão sob pressão — características que levo para o ambiente profissional.
 
 Acredito que bons produtos nascem da combinação entre **engenharia sólida, visão de negócio e paixão pelo que se constrói**.
 
