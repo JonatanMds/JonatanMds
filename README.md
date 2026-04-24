@@ -1,4 +1,4 @@
-# 👋 E ai, belezinha? Meu nome é Jonatan Marques
+# 👋 E ai, beleza? Meu nome é Jonatan Marques
 
 **Desenvolvedor Full Stack | Especialista em Front-End**
 
